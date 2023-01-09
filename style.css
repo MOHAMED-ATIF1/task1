@@ -1,0 +1,248 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+ 
+.navbar{
+    background-image: url("../photos/blue_bg (1).png");
+    height: 800px;
+    
+    
+}
+.secnav1{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+
+
+}
+.leftnav{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    padding: 15px;
+    color: rgb(104, 123, 123);
+    top: 40px;
+    
+}
+.active{
+    border-bottom: 2px solid blueviolet ;
+}
+.imglogin{
+    position: relative;
+}
+.login{
+    color: rgb(104, 123, 123);
+    position: absolute;
+    top: 80px;
+    right: 100px;
+
+}
+.secnav2{
+    display: flex;
+    justify-content: space-between;
+ position: relative;
+}
+.div1{
+margin: 100px;
+
+
+}
+.hednav{
+    font-size: 40px;
+  color: rgb(104, 123, 123);
+}
+    
+span{
+    color: blueviolet;
+}
+
+.parnav{
+    font-size: 20px;
+    color: rgba(104, 123, 123, 0.837);
+
+}
+.firstimg{
+    position: relative;
+    
+}
+.scondimg{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.thirdimg{
+    position: absolute;
+    right: 150px;
+    top: 350px;
+    z-index: 1;
+}
+.wevesimg{
+    position: absolute;
+    top: 700px;
+    z-index: 2;
+
+}
+
+.firstsec{
+    height: 1000px;
+    background-color: white;
+background-image: url("../photos/second_section_ (1).png") ;
+background-repeat: no-repeat;
+background-position: right top;
+background-size: cover;
+margin:200px 200px 300px;
+position: relative;
+
+ 
+
+    
+}
+.firstdiv{
+    text-align: center;
+    position: absolute;
+    right: 1300px;
+    
+}
+h3{
+    color: rgb(104, 123, 123);
+
+}
+p{
+    color: rgb(104, 123, 123);
+
+}
+.seconddiv{
+    text-align: center;
+    position: absolute;
+    left: 400px;
+    top: 440px;
+
+}
+.thirddiv{
+
+    text-align: center;
+    position: absolute;
+    left: 1150px;
+    top: 950px;
+
+
+}
+.fourthdiv{
+position: absolute;
+top: 950px;
+
+}
+.imgkun{
+position: relative;
+
+}
+.whychoose{
+position: absolute;
+top: 130px;
+left: 110px;
+font-size: 30px;
+color: white;
+}
+.whychoose2{
+    position: absolute;
+    top: 180px;
+    left: 110px;
+    font-size: 50px;
+    color: white;   
+}
+
+.secondsec{
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+margin: 600px 50px 400px ;
+
+
+}
+.modeldiv{
+    text-align: center;
+    height: 200px;
+   
+}
+
+.minesec{
+
+    background-image: url("../photos/Group 1131 (2).png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+    height: 700px;
+    position: relative;
+    display: flex;
+
+
+
+
+}
+.footsec1{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+
+.topdiv{
+
+display: flex;
+
+}
+.applediv{
+   display: flex;
+   position: absolute;
+   top: 500px;
+   left: 30px;
+   background-color: white;
+   padding: 10px ;
+   border-radius: 5px;
+   text-align: center;
+   justify-content: space-around;
+   width: 150px;
+}
+h5{
+    color: rgb(104, 123, 123);
+font-size: 20px;
+
+}
+.playdiv{
+    display: flex;
+    position: absolute;
+    top: 500px;
+    left: 200px;
+    background-color: white;
+    padding: 10px ;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: space-around;
+    width: 150px;
+
+}
+.icon{
+
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    position: absolute;
+    top:600px ;
+    left: 40px;
+}
+.elsediv{
+    position: absolute;
+    top: 650px;
+    left: 30px;
+    
+}
+.footlink{
+    color: white;
+}
+ 
+ 
+
+
